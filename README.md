@@ -1,4 +1,4 @@
-# FCC-machile-learning-projects
+# FCC-machile-learning
 1. Title of Database: MAGIC gamma telescope data 2004
 
 2. Sources:
